@@ -1,7 +1,0 @@
-"Gamemode"
-{
-	"base"		"sandbox"
-	"title"		"Basewars 14"
-	"maps"		"^bw_"
-	"menusystem"	"1"
-}
